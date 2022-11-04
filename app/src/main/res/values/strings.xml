@@ -1,0 +1,70 @@
+<resources>
+
+    <string name="app_name">Rick and Morty Project</string>
+
+    <!-- Layout titles -->
+    <string name="character_fragment_title">Characters list</string>
+    <string name="location_fragment_title">Locations list</string>
+    <string name="episode_fragment_title">Episodes list</string>
+    <string name="character_details_fragment_title">Character Details</string>
+    <string name="location_details_fragment_title">Location Details</string>
+    <string name="episode_details_fragment_title">Episode Details</string>
+    <string name="filter_fragment_title">Filters</string>
+
+    <!-- Character -->
+    <string name="last_known_location">Last known location:</string>
+    <string name="first_seen_in">First seen in:</string>
+    <string name="type">Type:</string>
+    <string name="gender">Gender:</string>
+    <string name="status_species">%s - %s</string>
+    <string name="episodes">Episodes:</string>
+
+    <!-- Location -->
+    <string name="location_type">Location type:</string>
+    <string name="dimension">Dimension:</string>
+    <string name="residents">Residents:</string>
+
+    <!-- Episode -->
+    <string name="air_date">The air date of the episode</string>
+    <string name="episode_code">The code of the episode:</string>
+    <string name="episode_characters">Episode characters:</string>
+
+    <!-- Menu -->
+    <string name="menu_search">Search</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_characters">Characters</string>
+    <string name="menu_locations">Locations</string>
+    <string name="menu_episodes">Episodes</string>
+    <string name="query_hint_character">Type here to search character</string>
+    <string name="query_hint_location">Type here to search location</string>
+    <string name="query_hint_episode">Type here to search episode</string>
+
+    <!-- Characters filter -->
+    <string name="filter_title_status">Filter by status</string>
+    <string name="status_alive">Alive</string>
+    <string name="status_dead">Dead</string>
+    <string name="status_unknown">Unknown</string>
+    <string name="filter_title_species">Filter by species</string>
+    <string name="filter_title_type">Filter by type</string>
+    <string name="filter_title_gender">Filter by gender</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_less">Genderless</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="hint_character_type">Write type of the characters</string>
+    <string name="hint_character_species">Write species of the characters</string>
+    <string name="button_filter_characters">Filter characters</string>
+
+    <!-- Episodes filter -->
+    <string name="filter_title_code">Filter by episode code:</string>
+    <string name="hint_code">Write episode code</string>
+    <string name="button_filter_episodes">Filter episodes</string>
+
+    <!-- Locations filter -->
+    <string name="hint_location_type">Write type of the location</string>
+    <string name="hint_location_dimension">Write dimension of the location</string>
+    <string name="button_filter_locations">Filter locations</string>
+
+    <string name="no_results">No results</string>
+    <string name="retry_button">Retry</string>
+</resources>
